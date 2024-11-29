@@ -1,0 +1,15 @@
+Cython==0.29.36
+joblib==1.4.2
+numpy==2.0.0
+pandas==2.2.2
+python-dateutil==2.9.0.post0
+pytz==2024.1
+scikit-learn==1.5.1
+scipy==1.14.0
+six==1.16.0
+sparse_dot_topn==0.3.0
+sparse_dot_topn_for_blocks==0.3.1.post3
+string-grouper==0.6.1
+threadpoolctl==3.5.0
+topn==0.0.7
+tzdata==2024.1
